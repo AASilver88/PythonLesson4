@@ -23,5 +23,5 @@ def checkNumber(d):
         print("Введите число в правильном формате.")
 
 
-d = InputNumbers("Введите число: ")
+d = InputNumbers(""Введите число для заданной точности числа Пи в формате 0.0...01:\n")
 checkNumber(d)
